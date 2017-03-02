@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/syntax"
+puts "#############################"
+puts "                             "
+puts "          Syntax             "
+puts "    a developer's friend     "
+puts "                             "
+puts "                             "
+puts "#############################"
+
+Cli.new.home

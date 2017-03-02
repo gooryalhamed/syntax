@@ -1,0 +1,1 @@
+require_relative "syntax/cli.rb"
